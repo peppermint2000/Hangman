@@ -18,4 +18,6 @@ Milestone 5: Final stage of a word guessing game with a limited number of lives,
 
 **Installation instructions:**
 Standard python install is enough. 
+By cloning the repository to your local machine and subsequently utilsing the terminal or command prompt to execute the `python milestone_5.py` command.
+
 
