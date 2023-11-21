@@ -16,16 +16,6 @@ Milestone 5: Final stage of a word guessing game with a limited number of lives,
 3-User input handling:
 *Ensureing proper handling of user inputs by implementing mechansims that allows accurate processing of user input. 
 
+**Installation instructions:**
+Standard python install is enough. 
 
-
-
-
-
-Installation instructions: 
-Standard python istall is enough. 
-
-Usage instructions:
-
-File structure of the project:
-
-License information:
